@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-labelledby="title desc">
+  <title id="title">Cute cat illustration</title>
+  <desc id="desc">A simple smiling cat with whiskers and a heart.</desc>
+  <rect width="320" height="240" fill="#f8f3ea"/>
+  <circle cx="160" cy="126" r="74" fill="#d88f52"/>
+  <path d="M103 88 126 42l23 43Z" fill="#d88f52"/>
+  <path d="M194 85 217 42l23 46Z" fill="#d88f52"/>
+  <path d="M117 84 129 58l13 25Z" fill="#f4c7c3"/>
+  <path d="M204 82 217 58l12 25Z" fill="#f4c7c3"/>
+  <ellipse cx="133" cy="122" rx="10" ry="13" fill="#2d241d"/>
+  <ellipse cx="187" cy="122" rx="10" ry="13" fill="#2d241d"/>
+  <circle cx="136" cy="118" r="3" fill="#fff8f0"/>
+  <circle cx="190" cy="118" r="3" fill="#fff8f0"/>
+  <path d="M160 132c-9 0-16 7-16 16 0 10 7 18 16 18s16-8 16-18c0-9-7-16-16-16Z" fill="#f7d6b6"/>
+  <path d="M160 139l-10 10h20Z" fill="#b85d5d"/>
+  <path d="M152 154c3 5 13 5 16 0" fill="none" stroke="#8f4d36" stroke-linecap="round" stroke-width="4"/>
+  <path d="M135 146H89" fill="none" stroke="#8f4d36" stroke-linecap="round" stroke-width="4"/>
+  <path d="M136 154H82" fill="none" stroke="#8f4d36" stroke-linecap="round" stroke-width="4"/>
+  <path d="M185 146h46" fill="none" stroke="#8f4d36" stroke-linecap="round" stroke-width="4"/>
+  <path d="M184 154h54" fill="none" stroke="#8f4d36" stroke-linecap="round" stroke-width="4"/>
+  <path d="M137 184c10 9 36 9 46 0" fill="none" stroke="#8f4d36" stroke-linecap="round" stroke-width="5"/>
+  <path d="M246 66c12-12 30-10 38 2 8 12 4 29-8 37-12 8-30 4-38-8-8-12-4-22 8-31Z" fill="#e85d75"/>
+  <path d="M246 66c-12-12-30-10-38 2-8 12-4 29 8 37 12 8 30 4 38-8" fill="#e85d75"/>
+</svg>
